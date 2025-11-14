@@ -1,0 +1,15 @@
+{
+    "nome": "João Silva",
+    "idade": 30,
+    "cidade": "São Paulo",
+    "habilidades": [
+        "Python",
+        "JavaScript",
+        "SQL"
+    ],
+    "ativo": true,
+    "contatos": {
+        "email": "joao@exemplo.com",
+        "telefone": "123-456-789"
+    }
+}

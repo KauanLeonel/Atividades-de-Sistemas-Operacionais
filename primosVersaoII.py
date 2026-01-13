@@ -10,7 +10,7 @@ import concurrent.futures
 maximo = 10
 primos = 0
 array = []
-lock = threading.Lock
+lock = threading.Lock()
 
 def th_gerador_numero(index): #Como se fosse um deamon, rondar em segundo plano, sem mostrar
     global primos
